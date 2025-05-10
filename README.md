@@ -39,7 +39,7 @@ submission/
     ```
     Or open in your browser: [http://192.168.1.34:3000/users](http://192.168.1.34:3000/users)
 
-    <img width="501" alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/users.png" />
+    <img width="501" alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/project.png" />
 
 
 ---
