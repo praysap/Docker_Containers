@@ -39,7 +39,7 @@ Docker_Cotainers/
     ```
     Or open in your browser: [http://192.168.1.34:3000/users](http://192.168.1.34:3000/users)
 
-    <img width="501" alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/project.png" />
+    <img  alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/users.png" />
 
 
 ---
@@ -53,7 +53,7 @@ Docker_Cotainers/
     ```
     Or open in your browser: [http://192.168.1.34:3001/products](http://192.168.1.34:3001/products)
 
-    <img width="455" alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/product.png" />
+    <img  alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/product.png" />
 
 
 ---
@@ -67,7 +67,7 @@ Docker_Cotainers/
     ```
     Or open in your browser: [http://192.168.1.34:3002/orders](http://192.168.1.34:3002/orders)
 
-    <img width="430" alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/orders.png" />
+    <img  alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/orders.png" />
 
 
 ---
@@ -79,21 +79,21 @@ Docker_Cotainers/
     ```
     curl http://192.168.1.34:3003/api/users
     ```
-<img width="427" alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/gateway_users.png" />
+<img  alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/gateway_users.png" />
 
     
   - **Products:**  
     ```
     curl http://192.168.1.34:3003/api/products
     ```
-<img width="417" alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/gateway_products.png" />
+<img  alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/gateway_products.png" />
 
     
   - **Orders:**  
     ```
     curl http://192.168.1.34:3003/api/orders
     ```
-<img width="352" alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/gateway_orders.png" />
+<img  alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/gateway_orders.png" />
 
 
 
@@ -104,8 +104,8 @@ Docker_Cotainers/
    ```
    docker-compose up
    ```
-<img width="854" alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/Docker_up.png" />
-<img width="268" alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/Docker_compose_up.png" />
+<img  alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/Docker_up.png" />
+<img  alt="image" src="https://github.com/praysap/Docker_Containers/blob/main/assets/Docker_compose_up.png" />
 
 
 2. Once the services are running, use the above endpoints to verify the functionality.
